@@ -1,0 +1,13 @@
+name: EasyBan
+version: 0.0.7
+author: Frej Alexander Nielsen
+main: me.FrejNielsen.EasyBan.EasyBan
+commands:
+    ban:
+      description: Bans a player.
+      aliases: easyban
+      permission: easyban.ban
+    unban:
+      description: Unbans a player.
+      aliases: easyunban
+      permission: easyban.unban		
